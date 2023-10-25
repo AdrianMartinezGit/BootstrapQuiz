@@ -1,0 +1,32 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+h1 {
+    font-weight: normal;
+    color: hsl(0, 35%, 65%);
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-right: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: hsl(241, 100%, 72%);
+    color: white;
+    font-size: 24px;
+}
+
+button:hover {
+    color: hsl(241, 100%, 72%);
+    background-color: white;
+}
